@@ -19,3 +19,12 @@ This repository demonstrates the integration between **Apache Spark** and **Hado
 |  - PySpark DataFrame Transformations|
 |  - Spark SQL Queries & CTEs        |
 +------------------------------------+
+
+
+## Data Pipeline & HDFS Setup
+
+To replicate the execution environment on a pseudo-distributed or multi-node Hadoop cluster:
+
+1. **Create the HDFS target directory:**
+   ```bash
+   hdfs dfs -mkdir -p /user/student/retail/raw```

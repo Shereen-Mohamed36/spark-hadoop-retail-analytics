@@ -44,7 +44,7 @@ hdfs dfs -ls /user/student/retail/raw
 ```
 
 
-**Analytical Scope & Key Queries**
+### Analytical Scope & Key Queries
 The project processes 16 complex business analytics queries across two core technical paradigms:
 
 **Part I — PySpark DataFrame API**

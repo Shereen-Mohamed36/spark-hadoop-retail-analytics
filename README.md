@@ -39,8 +39,8 @@ hdfs dfs -put datasets/*.csv /user/student/retail/raw/
 
 3. **Verify file placement in HDFS:**
 
-Bash
-```hdfs dfs -ls /user/student/retail/raw 
+```Bash
+hdfs dfs -ls /user/student/retail/raw 
 ```
 
 

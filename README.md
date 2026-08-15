@@ -65,6 +65,7 @@ Q7. Category Diversity: Customers purchasing across ≥3 distinct product catego
 Q8. Supplier Performance: Supplier ranking by volume, total revenue, and cumulative profit.
 
 **Part II — Spark SQL Engine**
+
 Q9. Regional Category Profitability: Dense-ranked top 3 product categories by profit per region.
 
 Q10. Loyalty Tier Benchmarking: Customers spending above the average of their assigned loyalty tier.

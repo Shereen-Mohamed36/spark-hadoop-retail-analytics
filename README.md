@@ -49,6 +49,7 @@ hdfs dfs -ls /user/student/retail/raw
 The project processes 16 complex business analytics queries across two core technical paradigms:
 
 **Part I — PySpark DataFrame API**
+
 Q1. Category Performance: Total revenue, net profit, and profit margin (profit_margin_pct) per product category.
 
 Q2. State Top Customers: Top 5 spending customers per state using dense_rank() over state partitions.
